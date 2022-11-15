@@ -1,8 +1,8 @@
 # The MAW project
 
-## Description
-
 ![The MAW project logo](./res/logo.png)
+
+## Description
 
 The **MAW** is a recursive acronym that stands for _Maw Attacks Wireless_.
 
