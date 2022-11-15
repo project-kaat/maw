@@ -1,6 +1,6 @@
 # The MAW project
 
-![The MAW project logo](./res/logo.png)
+![The MAW project logo](./res/logo.png | width=256)
 
 ## Description
 
